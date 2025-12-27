@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna
 
-<!--
-**Krishna5368/Krishna5368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Knowledge
+- 🐍 Python
+- 🗄 SQL
+- 📊 Power BI
+- 📈 Excel
+- 📉 Data Visualization
+
+---
+
+## 💼 Experience
+**Data Operator – LeadZpot Data Services Ltd**
+_Aug 2023 – Present_
+
+- Data collection, cleaning & validation  
+- Excel & Power BI reporting  
+- B2B research & team manage 
+
+---
+
+## 📌 Projects
+🔹 Global Super Store Analysis  
+🔹 Retail Business Performance Dashboard  
+🔹 Logistics SQL Analysis  
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/krishnaram-v-726192244
+- Email: krishnaram5368@gmail.com
